@@ -5,12 +5,10 @@
     'summary': """
         Adding vendor pricelist view to purchase product menù """,
 
-    'description': """
-        In this Module we Add vendor pricelist view to purchase product menù .
-    """,
+  
 
-    'author': "Wahab Ali Malik",
-    'website': "",
+    'author': "STeSI srl",
+    'website': "www.stesi.eu",
     'category': 'Inventory/Purchase',
     'version': '0.1',
     'depends': ['purchase'],
